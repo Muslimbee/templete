@@ -4,7 +4,8 @@ import { Link } from 'react-router-dom'
 function Navbar() {
     return (
         <nav className='nav'>
-            <div className="nav__logo">
+      
+          <div className="nav__logo">
                 <Link to='/' className='link'>
                     μTech
                 </Link>

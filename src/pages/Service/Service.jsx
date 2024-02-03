@@ -6,6 +6,7 @@ import { FaArrowRight } from "react-icons/fa6";
 function Service() {
   return (
     <div className='Service' id='Service'>
+      <div className="bg"></div>
      <div className="containere">
      <h1>Our Service</h1>
       <p>We turn information into actionable insights We work to understand your issues
